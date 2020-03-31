@@ -21,12 +21,12 @@
                                 <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="${contextPath}/index">VISUAL PATH</a>
-                            <i class="brand_network"><small><small>VProfile</small></small></i>
+                            <a class="navbar-brand" href="${contextPath}/index">SATWIKA</a>
+                            <i class="brand_network"><small><small>Satwika</small></small></i>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="#technologies">TECHNOLOGIES</a></li>
+                                <li><a href="#technologies">Collection</a></li>
                                 <li><a href="#about">ABOUT</a></li>
                                 <li><a href="#contact">CONTACT</a></li>
                                 <li><a href="#">BLOG</a></li>
