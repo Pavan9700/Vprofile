@@ -21,8 +21,7 @@
                                 <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
                                     class="icon-bar"></span><span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="${contextPath}/index">Souji</a>
-                            <i class="brand_network"><small><small>Tech</small></small></i>
+                            <a class="navbar-brand" href="${contextPath}/index">Souji Tech</a>
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
